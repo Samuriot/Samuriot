@@ -1,6 +1,6 @@
 Hi I'm Jomi
-  I'm a high school senior with little experience coding
-  Currently learning: Java (AP CS A Curriculum), Python
+  and I'm a high school senior with little experience coding.
+  Currently learning: Java (AP CS A Curriculum), Python...
   Have Done in the Past: HTML and JavaScript
 
 <!---
