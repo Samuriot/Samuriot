@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Jomi!</h1>
 <h3 align="center">I'm a CS Major at Seattle University</h3>
 
-- 🏥 I’m currently working on [Bilimetrix USA](n/a)
+- 🏥 I’m currently working on [HomeSavvy and my Portfolio Website!](n/a)
 
 - 🌱 I’m currently learning **ReactJS, Python**
 
-- 🫡 I’m trying to create a [Valorant API Shell](https://github.com/Samuriot/Valorant-API-Bot)
+- 🫡 I’m trying to create a [Python Data Bot](https://github.com/Samuriot/Valorant-API-Bot)
 
 - 👨‍💻 All of my projects are available at [https://samuriot.github.io/](https://samuriot.github.io/)
 
