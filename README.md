@@ -7,7 +7,7 @@
 
 - 🫡 I’m trying to create a [Python Data Bot](https://github.com/Samuriot/Valorant-API-Bot)
 
-- 👨‍💻 All of my projects are available at [https://samuriot.github.io/](https://samuriot.github.io/)
+- 👨‍💻 All of my projects are available at [[https://jomi-ruiz.vercel.app/](https://samuriot.github.io/)
 
 - 📫 How to reach me **jomi.g.ruiz@gmail.com**
 
