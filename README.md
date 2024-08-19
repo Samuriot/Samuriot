@@ -3,7 +3,7 @@
 
 - 🏥 I’m currently working on [Portfolio Website!](https://github.com/Samuriot/Samuriot.github.io)
 
-- 🌱 I’m currently learning **ReactJS, Flutter, & Firebase**
+- 🌱 I’m currently learning **ReactJS, React Native, & Firebase**
 
 - 🫡 I’m trying to create a [Python Data Bot](https://github.com/Samuriot/Valorant-API-Bot)
 
