@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, React Native, & Firebase**
 
-- ⌨️ I'm proficient in C++, Java, and have experience working with Javascript, SQL, & C#
+- ⌨️ I'm proficient in C++, Java, and have experience working with Javascript, SQL, C#, & Python
 
 - 👨‍💻 All of my projects are available at [https://jomi-ruiz.vercel.app/](https://jomi-ruiz.vercel.app/)
 
