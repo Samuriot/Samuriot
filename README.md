@@ -1,11 +1,9 @@
 <h1 align="center">Hi! I'm Jomi!</h1>
 <h3 align="center">I'm a CS Major at Seattle University</h3>
 
-- 🏥 I’m currently working on [Portfolio Website!](https://github.com/Samuriot/Samuriot.github.io)
+- 🏥 I’m currently working on [Hands Up!](https://github.com/Samuriot/Samuriot.github.io)
 
 - 🌱 I’m currently learning **ReactJS, React Native, & Firebase**
-
-- 🫡 I’m trying to create a [Python Data Bot](https://github.com/Samuriot/Valorant-API-Bot)
 
 - 👨‍💻 All of my projects are available at [https://jomi-ruiz.vercel.app/](https://jomi-ruiz.vercel.app/)
 
